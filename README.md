@@ -31,6 +31,11 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Login Details
+
+email: 'user@nextmail.com',
+password: '123456',
+
 ## How It Works
 
 1. **Authentication**: Users can sign up and log in to access the dashboard.
