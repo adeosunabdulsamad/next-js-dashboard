@@ -17,7 +17,7 @@ To get started with this project, clone the repository and install the dependenc
 
 ```bash
 git clone https://github.com/adeosunabdulsamad/next-js-dashboard.git
-cd Basketball_Trivia_App
+cd next-js-dashboard
 npm install
 ```
 
@@ -54,4 +54,4 @@ You can find the project repository on [GitHub](https://github.com/adeosunabduls
 
 ## Live Page
 
-Check out the live page [here](next-js-dashboard-amber-one.vercel.app).
+Check out the live page [here](https://next-js-dashboard-amber-one.vercel.app).
